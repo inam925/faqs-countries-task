@@ -23,9 +23,9 @@ ACF field name must be 'gft_countries'.
 ![Screenshot](site_address_contact.png)
 
 Field names:
-1) Site Logo: 'gft_site_logo'
-2) Address: 'gft_address'
-3) Contact Number: 'gft_contact'
+1) Site Logo: 'gft_site_logo'.
+2) Address: 'gft_address'.
+3) Contact Number: 'gft_contact'.
 Follow same precedure as countrie field.
 
 
