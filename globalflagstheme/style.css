@@ -1,0 +1,241 @@
+/*
+Theme Name: Global Flags Theme
+Author: Inam Ul Haq
+Author URI: https://github.com/inam925
+Description: A custom theme to display global flags.
+Requires at least: 6.3
+Tested up to: 6.3
+Requires PHP: 8.0
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+Text Domain: gft_textdomain
+*/
+
+/* body {
+  margin: 5% auto;
+  width: 60%;
+  font-size: 1.2rem;
+  line-height: 1.8rem;
+  font-family: "Oxygen", sans-serif;
+  color: rgb(87, 87, 87);
+}
+
+body.darkmode {
+  background: rgb(57, 57, 57);
+  color: rgb(227, 227, 227);
+}
+
+body.darkmode a {
+  color: rgb(227, 227, 227);
+}
+
+.is-hidden {
+  display: none;
+}
+
+/* custom scrollbar */
+/* body::-webkit-scrollbar {
+  background-color: #fff;
+  width: 16px;
+}
+
+body::-webkit-scrollbar-track {
+  background-color: #fff;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #575757;
+  border-radius: 16px;
+  border: 4px solid #fff;
+}
+
+body::-webkit-scrollbar-button {
+  display: none;
+} */
+/* end custom scrollbar */
+
+/* a {
+  color: rgb(87, 87, 87);
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
+#theme {
+  font-size: 25px;
+}
+
+#theme:hover {
+  cursor: pointer;
+}
+
+.landing {
+  display: flex;
+  align-items: center;
+  font-size: 1rem;
+}
+
+.links p {
+  margin-top: 0px;
+}
+
+.avatar {
+  border-radius: 50%;
+  margin-left: 100px;
+  width: 150px;
+  height: 150px;
+}
+
+h3 {
+  margin-bottom: 5px;
+}
+
+.columns {
+  display: flex;
+}
+
+.blog {
+  width: 80%;
+}
+
+.widget {
+  width: 30%;
+}
+
+blockquote {
+  border-left: 3px solid gray;
+  padding-left: 5px;
+  font-style: italic;
+}
+
+.attachment-post-thumbnail {
+  width: 100%;
+  max-width: 900px;
+  height: auto;
+  border-radius: 4px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+ins {
+  background-color: #fff9c0;
+  text-decoration: none;
+}
+
+pre {
+  background-color: rgba(0, 0, 0, 0.01);
+  border: 1px solid rgba(51, 51, 51, 0.1);
+  max-width: 100%;
+  overflow: auto;
+  padding: 0.8em;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+pre {
+  font-size: 100%;
+  font-style: inherit;
+  font-weight: inherit;
+  margin: 0;
+  margin-bottom: 0px;
+  outline: 0;
+  vertical-align: baseline;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+footer {
+  font-size: 14px;
+}
+
+footer span {
+  color: red;
+  cursor: default;
+}
+
+footer a {
+  color: rgb(87, 87, 87);
+}
+
+@media only screen and (max-width: 760px) {
+  body {
+    width: 90%;
+  }
+  .avatar {
+    display: none;
+  }
+  .landing {
+    display: block;
+    font-size: 0.9rem;
+  }
+  .columns {
+    display: block;
+  }
+  .blog {
+    width: 100%;
+  }
+  .widget {
+    width: 100%;
+  }
+  footer {
+    text-align: center;
+  }
+}
+.countries-list {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 10px;
+}
+
+.country {
+  text-align: center;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.country img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.country p {
+  margin: 5px 0;
+  font-weight: bold;
+  font-size: 14px;
+  color: #333;
+}
+.fs-nav-menu {
+  list-style: none;
+  padding: 0;
+}
+
+.fs-nav-menu li {
+  display: inline;
+  margin-right: 20px;
+}
+
+.fs-nav-menu a {
+  text-decoration: none;
+  color: #333;
+}  */

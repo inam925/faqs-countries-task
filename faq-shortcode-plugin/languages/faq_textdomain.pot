@@ -1,0 +1,114 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: FAQ Shortcode Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-31 19:21+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.3.2\n"
+"X-Domain: faq_textdomain"
+
+#: class-fs-faq-shortcode-main.php:78
+msgctxt "add new"
+msgid "Add New"
+msgstr ""
+
+#: class-fs-faq-shortcode-main.php:79
+msgid "Add new FAQ"
+msgstr ""
+
+#: includes/admin/class-fs-faq-shortcode-admin.php:137
+msgid "Add New Field"
+msgstr ""
+
+#: class-fs-faq-shortcode-main.php:77
+msgctxt "admin bar"
+msgid "FAQ's"
+msgstr ""
+
+#: class-fs-faq-shortcode-main.php:76
+msgctxt "admin menu"
+msgid "FAQ's"
+msgstr ""
+
+#: includes/admin/class-fs-faq-shortcode-admin.php:129
+msgid "Answer:"
+msgstr ""
+
+#. Description of the plugin
+msgid "Display FAQ's with shortcode"
+msgstr ""
+
+#: class-fs-faq-shortcode-main.php:81
+msgid "Edit FAQ"
+msgstr ""
+
+#: class-fs-faq-shortcode-main.php:86
+msgid "FAQ Priority"
+msgstr ""
+
+#. Name of the plugin
+msgid "FAQ Shortcode Plugin"
+msgstr ""
+
+#: class-fs-faq-shortcode-main.php:83
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/inam925"
+msgstr ""
+
+#. Author of the plugin
+msgid "Inam Ul Haq"
+msgstr ""
+
+#: class-fs-faq-shortcode-main.php:80
+msgid "New FAQ"
+msgstr ""
+
+#: class-fs-faq-shortcode-main.php:85
+msgid "No FAQ found."
+msgstr ""
+
+#: class-fs-faq-shortcode-main.php:74
+msgctxt "plural"
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: includes/admin/class-fs-faq-shortcode-admin.php:126
+msgid "Question:"
+msgstr ""
+
+#: includes/admin/class-fs-faq-shortcode-admin.php:131
+msgid "Remove"
+msgstr ""
+
+#: class-fs-faq-shortcode-main.php:84
+msgid "Search FAQs"
+msgstr ""
+
+#: includes/admin/class-fs-faq-shortcode-admin.php:154
+msgid "Security Violated."
+msgstr ""
+
+#: class-fs-faq-shortcode-main.php:113
+msgid "Settings"
+msgstr ""
+
+#: class-fs-faq-shortcode-main.php:75
+msgctxt "singular"
+msgid "FAQ"
+msgstr ""
+
+#: class-fs-faq-shortcode-main.php:82
+msgid "View FAQ"
+msgstr ""

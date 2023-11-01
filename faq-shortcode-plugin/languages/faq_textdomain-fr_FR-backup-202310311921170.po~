@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FAQ Shortcode Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-31 19:17+0000\n"
+"PO-Revision-Date: 2023-10-31 19:17+0000\n"
+"Last-Translator: wer wer\n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.3.2\n"
+"X-Domain: faq_textdomain"
+
+#: class-fs-faq-shortcode-main.php:79
+msgctxt "add new"
+msgid "Add New"
+msgstr ""
+
+#: class-fs-faq-shortcode-main.php:80
+msgid "Add new FAQ"
+msgstr ""
+
+#: class-fs-faq-shortcode-main.php:78
+msgctxt "admin bar"
+msgid "FAQ's"
+msgstr ""
+
+#: class-fs-faq-shortcode-main.php:77
+msgctxt "admin menu"
+msgid "FAQ's"
+msgstr ""
+
+#. Description of the plugin
+msgid "Display FAQ's with shortcode"
+msgstr ""
+
+#: class-fs-faq-shortcode-main.php:82
+msgid "Edit FAQ"
+msgstr ""
+
+#: class-fs-faq-shortcode-main.php:87
+msgid "FAQ Priority"
+msgstr ""
+
+#. Name of the plugin
+msgid "FAQ Shortcode Plugin"
+msgstr ""
+
+#: class-fs-faq-shortcode-main.php:84
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/inam925"
+msgstr ""
+
+#. Author of the plugin
+msgid "Inam Ul Haq"
+msgstr ""
+
+#: class-fs-faq-shortcode-main.php:81
+msgid "New FAQ"
+msgstr ""
+
+#: class-fs-faq-shortcode-main.php:86
+msgid "No FAQ found."
+msgstr ""
+
+#: class-fs-faq-shortcode-main.php:75
+msgctxt "plural"
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: class-fs-faq-shortcode-main.php:85
+msgid "Search FAQs"
+msgstr ""
+
+#: includes/admin/class-fs-faq-shortcode-admin.php:154
+msgid "Security Violated."
+msgstr ""
+
+#: class-fs-faq-shortcode-main.php:114
+msgid "Settings"
+msgstr ""
+
+#: class-fs-faq-shortcode-main.php:76
+msgctxt "singular"
+msgid "FAQ"
+msgstr ""
+
+#: class-fs-faq-shortcode-main.php:83
+msgid "View FAQ"
+msgstr ""
