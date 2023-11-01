@@ -20,3 +20,12 @@ ACF field name must be 'gft_countries'.
 2) Add desired page to location rule. 
 3) Edit the page to update setting and shortcode will be rendered.
 
+[Screenshot](site_address_contact.png)
+
+Field names:
+1) Site Logo: 'gft_site_logo'
+2) Address: 'gft_address'
+3) Contact Number: 'gft_contact'
+Follow same precedure as countrie field.
+
+
