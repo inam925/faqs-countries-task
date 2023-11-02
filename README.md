@@ -14,7 +14,7 @@ Global Flags Theme & FAQs Shortcode Plugin
 
 ![Screenshot](countries-flags.png)
 
-Shortcode to display countries names & flag is [display_countries].
+Shortcode to display countries names & flags is [display_countries].
 ACF field name must be 'gft_countries'.
 1) Create ACF field with name 'gft_countries'
 2) Add desired page to location rule. 
@@ -26,6 +26,6 @@ Field names:
 1) Site Logo: 'gft_site_logo'
 2) Address: 'gft_address'
 3) Contact Number: 'gft_contact'
-4) Follow same procedure as countrie field.
+4) Follow same procedure as countries field.
 
 
