@@ -5,7 +5,7 @@
 		</div>
 		<?php
 		if (in_array('advanced-custom-fields/acf.php', apply_filters('active_plugins', get_option('active_plugins')), true)) {
-		?>
+			?>
 			<?php if (get_field('gft_address')) : ?>
 				<?php
 				$field = get_field_object('gft_address');
@@ -35,8 +35,8 @@
 			<?php endif; ?>
 		<?php
 		} else {
-		?>
-			<div><?php echo esc_html__('The Advanced Custom Fields plugin is not active. Please activate it for this functionality.', 'gft_textdomain')?> </div>
+			?>
+			<div><?php echo esc_html__('The Advanced Custom Fields plugin is not active. Please activate it for this functionality.', 'gft_textdomain'); ?> </div>
 		<?php
 		}
 		?>
