@@ -26,6 +26,6 @@ Field names:
 1) Site Logo: 'gft_site_logo'
 2) Address: 'gft_address'
 3) Contact Number: 'gft_contact'
-4) Follow same precedure as countrie field.
+4) Follow same procedure as countrie field.
 
 
