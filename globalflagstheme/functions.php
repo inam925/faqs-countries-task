@@ -13,10 +13,10 @@ add_action('after_setup_theme', 'gft_register_global_nav');
 
 /* Enqueue scripts and styles. */
 function gft_global_enqueue_scripts() {
-	wp_enqueue_style( 'simple-style', get_template_directory_uri() . '/assets/css/fs-front-style.css', '10000', 'all' );
-	wp_enqueue_script( 'simple-js', get_template_directory_uri() . '/assets/js/fs-front-script.js', array(), '1.0.0');
+	wp_enqueue_style( 'gft-global-style', get_template_directory_uri() . '/assets/css/fs-front-style.css', '10000', 'all' );
+	wp_enqueue_script( 'gft-global-script-js', get_template_directory_uri() . '/assets/js/fs-front-script.js', array(), '1.0.0');
 
-	wp_enqueue_style( 'google_web_fonts', 'https://fonts.googleapis.com/css?family=Oxygen', array(), '1.0.0' );
+	wp_enqueue_style( 'gft_google_web_fonts', 'https://fonts.googleapis.com/css?family=Oxygen', array(), '1.0.0' );
 }
 add_action( 'wp_enqueue_scripts', 'gft_global_enqueue_scripts' );
 
@@ -25,18 +25,18 @@ add_filter('acf/format_value/name=gft_countries', 'do_shortcode');
 /* Register Widget */
 function gft_register_widget() {
 	register_sidebar( array(
-		'name'          => __( 'Sidebar', 'smp' ),
+		'name'          => __( 'Sidebar', 'gft_textdomain' ),
 		'id'            => 'gft-global-sidebar',
-		'description'   => __( 'The main sidebar appears on the right on each page except the front page template.', 'smp' ),
+		'description'   => __( 'The main sidebar appears on the right on each page except the front page template.', 'gft_textdomain' ),
 		'before_widget' => '<div id="%1$s">',
 		'after_widget'  => '</div>',
 		'before_title'  => '<h3>',
 		'after_title'   => '</h3>',
 	) );
 	register_sidebar( array(
-		'name'          => __( 'Footer', 'smp' ),
+		'name'          => __( 'Footer', 'gft_textdomain' ),
 		'id'            => 'gft-global-footer',
-		'description'   => __( 'The main footer appears on the bottom on each page except the front page template.', 'smp' ),
+		'description'   => __( 'The main footer appears on the bottom on each page except the front page template.', 'gft_textdomain' ),
 		'before_widget' => '<div id="%1$s">',
 		'after_widget'  => '</div>',
 		'before_title'  => '<h3>',
