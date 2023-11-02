@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Global Flags Theme\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-02 07:23+0000\n"
-"PO-Revision-Date: 2023-11-02 07:28+0000\n"
+"PO-Revision-Date: 2023-11-02 07:31+0000\n"
 "Last-Translator: wer wer\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -19,7 +19,7 @@ msgstr ""
 msgid "A custom theme to display global flags."
 msgstr ""
 
-#: functions.php:37
+#: functions.php:38
 msgid "Footer"
 msgstr ""
 
@@ -35,29 +35,21 @@ msgstr ""
 msgid "Inam Ul Haq"
 msgstr ""
 
-#: functions.php:28
+#: functions.php:29
 msgid "Sidebar"
 msgstr ""
 
-#: page.php:31
-msgid ""
-"The Advanced Custom Fields plugin is not active. Please activate it to "
-"display countries flags and names."
+#: page.php:31 footer.php:39
+msgid "The Advanced Custom Fields plugin is not active."
 msgstr ""
 
-#: footer.php:39
-msgid ""
-"The Advanced Custom Fields plugin is not active. Please activate it to "
-"display site logo, address and contact number."
-msgstr ""
-
-#: functions.php:39
+#: functions.php:40
 msgid ""
 "The main footer appears on the bottom on each page except the front page "
 "template."
 msgstr ""
 
-#: functions.php:30
+#: functions.php:31
 msgid ""
 "The main sidebar appears on the right on each page except the front page "
 "template."

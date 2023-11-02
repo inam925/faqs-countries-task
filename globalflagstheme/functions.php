@@ -21,6 +21,7 @@ function gft_global_enqueue_scripts() {
 add_action( 'wp_enqueue_scripts', 'gft_global_enqueue_scripts' );
 
 add_filter('acf/format_value/name=gft_countries', 'do_shortcode');
+load_theme_textdomain( 'gft_textdomain', get_template_directory() . '/languages' );
 
 /* Register Widget */
 function gft_register_widget() {
@@ -89,6 +90,3 @@ function gft_display_countries_shortcode() {
 	ob_end_clean();
 	return $output;
 }
-// $site_logo = get_field('site_logo');
-// $site_address = get_field('address'); 
-// $contact_number = get_field('contact_number'); 

@@ -28,7 +28,7 @@
 							endif;
 						} else {
 							?>
-							<div><?php echo esc_html__('The Advanced Custom Fields plugin is not active. Please activate it to display countries flags and names.', 'gft_textdomain'); ?> </div>
+							<div><?php echo esc_html__('The Advanced Custom Fields plugin is not active.', 'gft_textdomain'); ?> </div>
 						<?php
 						}
 						wp_link_pages();
