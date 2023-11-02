@@ -20,7 +20,7 @@
 		<br><hr>
 		<div class="gft-columns">
 			<div class="gft-blog">
-				<h3> Blog</h3>
+				<h3>Blog</h3>
 				<ul>
 				<?php 
 				if ( is_home() || is_archive() ) {
