@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Global Flags Theme\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-02 07:23+0000\n"
-"PO-Revision-Date: 2023-11-02 07:23+0000\n"
+"PO-Revision-Date: 2023-11-02 07:28+0000\n"
 "Last-Translator: wer wer\n"
 "Language-Team: French (France)\n"
 "Language: fr_FR\n"
@@ -39,10 +39,16 @@ msgstr ""
 msgid "Sidebar"
 msgstr ""
 
-#: page.php:31 footer.php:39
+#: page.php:31
 msgid ""
-"The Advanced Custom Fields plugin is not active. Please activate it for this "
-"functionality."
+"The Advanced Custom Fields plugin is not active. Please activate it to "
+"display countries flags and names."
+msgstr ""
+
+#: footer.php:39
+msgid ""
+"The Advanced Custom Fields plugin is not active. Please activate it to "
+"display site logo, address and contact number."
 msgstr ""
 
 #: functions.php:39

@@ -36,7 +36,7 @@
 		<?php
 		} else {
 			?>
-			<div><?php echo esc_html__('The Advanced Custom Fields plugin is not active. Please activate it for this functionality.', 'gft_textdomain'); ?> </div>
+			<div><?php echo esc_html__('The Advanced Custom Fields plugin is not active. Please activate it to display site logo, address and contact number.', 'gft_textdomain'); ?> </div>
 		<?php
 		}
 		?>
