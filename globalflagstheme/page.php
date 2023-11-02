@@ -14,10 +14,10 @@
 						the_content();
 						?>
 						<h1><?php the_title(); ?></h1>
-						<?php if ( get_field('countries' ) ) : ?>
+						<?php if ( get_field('gft_countries' ) ) : ?>
 						<h2>
 							<?php 
-							echo get_field('countries'); 
+							echo get_field('gft_countries'); 
 							?>
 						</h2>
 						<?php 

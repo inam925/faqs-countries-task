@@ -20,7 +20,7 @@ function gft_global_enqueue_scripts() {
 }
 add_action( 'wp_enqueue_scripts', 'gft_global_enqueue_scripts' );
 
-add_filter('acf/format_value/type=textarea', 'do_shortcode');
+add_filter('acf/format_value/name=gft_countries', 'do_shortcode');
 
 /* Register Widget */
 function gft_register_widget() {
